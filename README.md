@@ -1,5 +1,5 @@
 # ✨ hello !
-just here attempting to make cool things for myself and others :]
+i try to make cool things for myself and others :]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrewhiponia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahiponia@protonmail.com) 
 
